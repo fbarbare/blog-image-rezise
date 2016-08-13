@@ -6,7 +6,7 @@ var path = require('path');
 var ncp = require('ncp').ncp;
 
 var IMAGE_SIZE = 2000;
-const pathOld = 'temp';
+const pathOld = 'old';
 const pathNew = 'new';
 
 tinify.key = 'UKpyBNkWmRUdHJxL6GBDG4EQF4GhsTlW';
